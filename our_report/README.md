@@ -59,6 +59,11 @@ Hardware Required
 5       Tobsun 5V DC-DC Converter
 6        12V 1.5A DC power supply	
 	
+	
+Software:Javascript,c++
+
+
+
 # 3rd Deliverable 
 
 
