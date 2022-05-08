@@ -47,7 +47,7 @@ Context
 
 
 
--User Interaction
+*User Interaction*
 
 User->Sound maker->Arduino->Light
 
@@ -56,7 +56,7 @@ User->Sound maker->Arduino->Light
 
 
 
-Interface design
+*Interface design*
 
 
 Hardware Required
