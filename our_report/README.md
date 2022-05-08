@@ -39,7 +39,9 @@ Context
 
 
 # 2nd Deliverable
-![image](https://user-images.githubusercontent.com/100956044/167307201-d09df7b5-5e64-4a00-9653-133e8f8f8ab1.png)
+Information architecture
+
+![image](https://user-images.githubusercontent.com/100956044/167307330-6e792521-4f9f-4073-b716-3a79a0834279.png)
 
 
 
