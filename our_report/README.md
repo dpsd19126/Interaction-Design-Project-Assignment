@@ -50,14 +50,21 @@ User->Sound maker->Arduino->Light
 
 Το τεχνούργημα μας έχει ψυχαγωγικό χαρακτήρα.Ο χρηστής εισέρχεται στο χώρο που είναι τοποθετημένο το αντικείμενο, πιθανόν στο σαλόνι του.Επιλέγει μέσα από κάποιο πρόγραμμα αναπαραγωγής μουσικής κάποιο τραγούδι.Το σύστημα αντιλαμβάνεται τον ήχο και ανάλογα με την ένταση εφαρμόζει την αντίστοιχη ένταση στα φωτά led.Ο χρηστής παρατηρεί τα led να ανάβουν και να αυξομειώνεται η ένταση τους ανάλογα με την μουσική που ο ίδιος επιλεγεί.
 
+Interface design
+
 Hardware Required
 
 1       Arduino Uno	
+
 2	WS2812B LED Strip
+
 3       Adafruit Electret Microphone / Max4466 Amplifier
+
 4       Single Turn Potentiometer- 10k ohms
+
 5       Tobsun 5V DC-DC Converter
-6        12V 1.5A DC power supply	
+
+6       12V 1.5A DC power supply	
 	
 	
 Software:Javascript,c++
