@@ -44,6 +44,11 @@ Information architecture
 ![image](https://user-images.githubusercontent.com/100956044/167307330-6e792521-4f9f-4073-b716-3a79a0834279.png)
 
 
+User Interaction
+
+User->Sound maker->Arduino->Light
+
+
 
 # 3rd Deliverable 
 
