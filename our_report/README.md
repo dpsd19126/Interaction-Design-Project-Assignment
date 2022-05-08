@@ -41,6 +41,7 @@ Context
 # 2nd Deliverable
 Information architecture
 
+
 ![image](https://user-images.githubusercontent.com/100956044/167307330-6e792521-4f9f-4073-b716-3a79a0834279.png)
 
 
@@ -48,9 +49,11 @@ User Interaction
 
 User->Sound maker->Arduino->Light
 
+
 Το τεχνούργημα μας έχει ψυχαγωγικό χαρακτήρα.Ο χρηστής εισέρχεται στο χώρο που είναι τοποθετημένο το αντικείμενο, πιθανόν στο σαλόνι του.Επιλέγει μέσα από κάποιο πρόγραμμα αναπαραγωγής μουσικής κάποιο τραγούδι.Το σύστημα αντιλαμβάνεται τον ήχο και ανάλογα με την ένταση εφαρμόζει την αντίστοιχη ένταση στα φωτά led.Ο χρηστής παρατηρεί τα led να ανάβουν και να αυξομειώνεται η ένταση τους ανάλογα με την μουσική που ο ίδιος επιλεγεί.
 
 Interface design
+
 
 Hardware Required
 
@@ -67,6 +70,7 @@ Hardware Required
 6       12V 1.5A DC power supply	
 	
 	
+
 Software:Javascript,c++
 
 
