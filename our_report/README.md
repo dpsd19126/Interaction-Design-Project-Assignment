@@ -34,7 +34,7 @@ Context
 	Input:Επιλογή εντολών μέσω ήχου
 	Output:Φωτεινές ενδείξεις με εναλλαγή χρωμάτων
 	Communication: οπτικοαουστικά 
-	Content: Arduino Uno, 2 Resistor,breadboard,Capacitor,adafruit LED 
+	Content: Arduino Uno,  Resistor,breadboard,Buzzer,LED,Potentiometer
 
 
 
@@ -63,15 +63,26 @@ Hardware Required
 
 1       Arduino Uno	
 
-2	WS2812B LED Strip
+2	Breadboard (generic)
 
-3       Adafruit Electret Microphone / Max4466 Amplifier
+3      Buzzer
 
-4       Single Turn Potentiometer- 10k ohms
+4     Photo resistor  
 
-5       Tobsun 5V DC-DC Converter
+5     LED (generic)  
 
-6       12V 1.5A DC power supply	
+6      Single Turn Potentiometer- 10k ohms
+
+7     SparkFun Pushbutton switch 12mm
+
+8     2*  Resistor 10k ohm
+
+9    2*	Resistor 560 ohm
+
+10    12*  Jumper wires (generic)
+
+
+
 	
 	
 
@@ -80,6 +91,19 @@ Software:Javascript,c++
 
 
 # 3rd Deliverable 
+
+STORYBOARD
+
+
+
+
+![storyboard](https://user-images.githubusercontent.com/100956044/172960634-35bbe153-cb4c-469e-8840-0d1d3e5ffdd1.jpg)
+
+
+
+
+
+
 
 
 # Conclusions
