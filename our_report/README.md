@@ -101,6 +101,14 @@ STORYBOARD
 
 
 
+PROTOTYPE
+
+
+
+
+![20220610_020825](https://user-images.githubusercontent.com/100956044/172960802-c643d26e-886b-45a7-a24c-56328a2de950.jpg)
+
+
 
 
 
