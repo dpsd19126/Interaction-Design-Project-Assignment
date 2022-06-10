@@ -44,8 +44,8 @@ Context
 *Information architecture*
 
 
-![image](https://user-images.githubusercontent.com/100956044/167307330-6e792521-4f9f-4073-b716-3a79a0834279.png)
 
+![DIADRASTIKI](https://user-images.githubusercontent.com/100956044/173054574-3adebb13-2a68-4aa4-a0eb-68d8d49d2452.png)
 
 
 
